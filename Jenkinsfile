@@ -15,8 +15,8 @@ pipeline {
          NEXUSPORT = '8081'
          NEXUS_GRP_REPO = 'vpro-maven-group'
          NEXUS_LOGIN = 'nexusloginsai' 
-         SONARSERVER = 'sonarserver'
-         SONARSCANNER = 'sonarscanner'
+         SONARSERVER = 'sonarserver7'
+         SONARSCANNER = 'sonarscanner7'
     }
 
     stages {
